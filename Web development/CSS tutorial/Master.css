@@ -1,0 +1,36 @@
+/*
+Selector {
+property : value ;   ====> Declaration
+prppertyTwo : value
+}
+
+when the selecror is class we put dot before its name 
+when the selecror is id we put hash before its name  "Not best practice"
+
+*/
+
+/* p{
+    color: red;
+    font-size: larger;
+   
+}
+.Special{
+    color: aqua;
+    font-size: larger;
+} */
+
+
+div {
+    background-color: red;      
+    background-color: rgb(255 0 0  / 52%); 
+    background-color: #FF0000;  
+    background-image: url(../Images/what-skills-do-you-need-to-become-a-software-engineer.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center ;
+    background-size: contain;
+
+
+}
+
+
