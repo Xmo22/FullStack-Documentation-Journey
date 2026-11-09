@@ -19,18 +19,25 @@ when the selecror is id we put hash before its name  "Not best practice"
     font-size: larger;
 } */
 
-
+/*
 div {
-    background-color: red;      
+    /* background-color: red;      
     background-color: rgb(255 0 0  / 52%); 
-    background-color: #FF0000;  
-    background-image: url(../Images/what-skills-do-you-need-to-become-a-software-engineer.webp);
+    background-color: #DDD;   */
+    /* background-image: url(../Images/what-skills-do-you-need-to-become-a-software-engineer.webp);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center ;
-    background-size: contain;
+    background-size: contain; */
+/* 
+    padding: 20px; */
+    /* padding: 10px 20px;
+    padding-bottom: 30px; */
+    /* width: 70%;
+    margin: auto;
+ }
+     */
 
 
-}
 
 
