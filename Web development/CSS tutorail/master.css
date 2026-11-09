@@ -1,0 +1,16 @@
+/*
+Selector {
+property : value ;   ====> Declaration
+prppertyTwo : value
+}
+
+when the selecror is class we put dot before its name 
+when the selecror is id we put hash before its name  "Not best practice"
+
+*/
+
+p{
+    color: red;
+    font-size: larger;
+   
+}
