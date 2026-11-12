@@ -176,4 +176,49 @@ div {
     text-shadow: 1px 1px 3px #b23434d4;
  } */
 
+ /* div{
+    background-color: #eee;
+    width: 100px;
+    padding: 10px;
+    height: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+ }
+ */
 
+
+ /* div {
+    text-align: center;
+    padding: 20px;
+    background-color: #EEE;
+    color: red;
+    font-size: 20px;
+    border: 2px solid green;
+ }
+
+
+ div p {
+    border: inherit;
+    padding: inherit;
+
+ }
+
+
+  */
+
+
+
+  /* div{
+    background-color: #efefef;
+    font-size: larger;
+    padding: 10px;
+    text-align: center;
+    font-family: "Cairo", sans-serif;
+    font-weight: 700;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+
+  } */
