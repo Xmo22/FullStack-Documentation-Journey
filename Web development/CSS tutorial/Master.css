@@ -97,6 +97,83 @@ div {
     - Respect Padding And Margin [ Just Wight + Left ]
     - Do Not Add Line Break
     - Allow Elements Before And After It in The Same Line
+ }
+     */
+
+ /* Inline-Block:
+ 
+   Allow Elements Before And After It in The Same Line
+   Respect Padding, Margin, Width, Height
+
+
+ */
+
+ /* div{
+    background-color: #ddd;
+    margin: 20px 0;
+ }
+
+ .first{
+    display: none;   (next override previous)
+    visibility: hidden; (no override happens)
+ }
+ */
+
+ /* .one{
+
+    color: red;
+    border-bottom: red solid 2px;
+
+
+ }
+
+ .two{
+
+    color: green;
+    border-bottom: green solid 2px;
+
+ 
+ }
+
+ .three{
+
+    color: blue;
+    border-bottom: blue solid 2px;
+
+ }
+
+ .four{
+
+    color: yellow;
+    border-bottom: yellow solid 2px;
+
+ }
+
+
+ .one,
+ .two ,
+ .three ,
+ .four {
+    background-color: #eee;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 300px;
+
+ }
+
+ */
+
+ /* div{
+    background-color: #eee;
+    border-bottom: 2px solid black;
+    margin: 10px;
+ }
+ */
+
+ /* div{
+    background-color: #f7f7f7;
+    color: blueviolet;
+    text-shadow: 1px 1px 3px #b23434d4;
  } */
 
 
