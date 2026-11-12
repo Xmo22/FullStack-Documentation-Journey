@@ -38,6 +38,65 @@ div {
  }
      */
 
+/* div{
+    padding: 20px;
+    width: 70%;
+    margin: auto;
+    background-color: #DDD;
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
 
+} */
+
+/* border is outline for the element and does not exceed its width like border
+   it takes only single value not 4*/
+
+/* div{
+    padding: 20px;
+    background-color: #ddd;
+    width: 300px;
+
+    margin-left: 50px;
+    margin-top: 50px;
+
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50px;
+
+    outline-width: 10px;
+    outline-color: blue;
+    outline-style: solid;
+
+}
+ */
+
+ /* .block{
+    background-color: #ddd;
+    padding: 10px;
+    margin: 50px 10px;
+    width: 500px;
+    height: 50px;
+
+
+  - Take Full Width If No Width
+  - Add Line Break
+  - Respect Padding, Margin, Width, Height
+
+ } */
+
+ /* .inline{
+    background-color: #eee;
+    padding: 50px;
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+
+    - Do Not Repsepct Width, Height
+    - Respect Padding And Margin [ Just Wight + Left ]
+    - Do Not Add Line Break
+    - Allow Elements Before And After It in The Same Line
+ } */
 
 
