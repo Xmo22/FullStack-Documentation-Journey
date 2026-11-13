@@ -222,3 +222,45 @@ div {
       "slnt" 0;
 
   } */
+
+/* body{
+    font-size: 40px;
+}
+
+  div{
+    font-size: 20px;
+  }
+
+  div span{
+    font-size: 1em;
+  } */
+
+ 
+  /* body{
+   margin: 0;
+  }
+
+  div{
+   background-color: #eee;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: 22.5%;
+   margin-left: 2%;
+   display: inline-block;
+   text-align: center;
+
+  } */
+
+
+  /* 
+  width 100% 
+  no. of elements => 4
+  space before and between elements => 5
+  each space => 2%
+  ocupied space => 10%
+  availble space 90%
+  width => 90 / 4 
+
+  
+  */
+   
