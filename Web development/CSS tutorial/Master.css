@@ -260,7 +260,35 @@ div {
   ocupied space => 10%
   availble space 90%
   width => 90 / 4 
-
+ 
   
   */
-   
+
+  /* table{
+   width: 100%;
+   border: 1px solid black;
+   border-spacing: 0;
+  }
+
+
+  table td{
+   padding: 20px;
+   background-color: #eee;
+   border: 1px solid black;
+  }
+
+  table thead td {
+   background-color: #8ff57e;
+   text-align: center;
+   font-weight: bolder;
+   border-color: #F35246;
+  } */
+/* a :hover {
+   color: red;
+}
+
+a:visited {
+   color: green;
+}
+
+    */
