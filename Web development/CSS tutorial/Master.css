@@ -304,3 +304,40 @@ a:visited {
    outline: 2px solid black;
 } */
 
+/* div {
+   background-color: #eee;
+   width: 350px;
+   height: 200px;
+   transition-duration: 3s;
+   transition-property: all;
+   transition-timing-function: ease-in-out;
+   transition-delay: 2s;
+
+   transition: height 3s 2s ease-in;
+
+
+}
+
+div:hover{
+   padding: 20px;
+   margin: 50px;
+   width: 700px;
+   height: 500px;
+} */
+
+/* div{
+   height: 400px;
+}
+
+.one {
+   height: 180px;
+   background-color: red ;
+   margin-bottom: 20px;
+}
+
+.two{
+   height: 180px;
+   background-color: green;
+   margin-top: 20px;
+} */
+
