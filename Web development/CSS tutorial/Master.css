@@ -341,7 +341,7 @@ div:hover{
    margin-top: 20px;
 } */
 
-*{
+/* *{
    box-sizing: border-box;
 }
 
@@ -365,7 +365,36 @@ div:hover{
    width: 25%;
    text-align: center;
 
+} */
+
+
+
+*{
+   box-sizing: border-box;
 }
 
 
+.parent{
+   background-color: #eee;
+   width: 800px;
+   height: 500px;
+   margin: 20px auto;
+   display: grid;
+   grid-template-columns: repeat(4,auto);
+   grid-template-rows: repeat(3,auto);
+   gap: 5px;
+   justify-content: space-between;
+   align-content: space-between;
+
+
+}
+
+.parent div{
+   background-color: red;
+   color: white;
+   padding: 20px;
+   font-size: 30px;
+   font-weight: bolder;
+
+}
 
