@@ -4,5 +4,5 @@ Welcome! This repository documents my personal learning log toward becoming a Fu
 
 ##  Current Status
 
-- **Completed:** HTML5 Fundamentals
-- **Now Learning:** CSS3 (Styling, Layouts & Responsive Design)
+- **Completed:** HTML5 Fundamentals , CSS3 (Styling, Layouts & Responsive Design)
+- **Now Learning:** HTML + CSS Projects
